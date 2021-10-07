@@ -1,0 +1,6 @@
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\bin\Debug\FluentAPIExample.exe.config
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\bin\Debug\FluentAPIExample.exe
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\bin\Debug\FluentAPIExample.pdb
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\obj\Debug\FluentAPIExample.csproj.CoreCompileInputs.cache
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\obj\Debug\FluentAPIExample.exe
+F:\Presentations\FluentAPIs\FluentAPIExample\FluentAPIExample\obj\Debug\FluentAPIExample.pdb
